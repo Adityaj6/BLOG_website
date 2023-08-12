@@ -1,0 +1,4 @@
+{
+    "prettier.configPath": "\"php.executablePath\": null",
+    "php-intellisense.trace.server": "verbose"
+}
